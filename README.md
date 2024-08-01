@@ -4,4 +4,4 @@ I am an [active contributor to WordPress.org Meta](https://profiles.wordpress.or
 
 Browse [my repositories](https://github.com/akirk?tab=repositories&language=&sort=stargazers) to find all my open source activities which include many [WordPress plugins](https://alex.kirk.at/wordpress-plugins/), [little tools](https://alex.kirk.at/little-tools/), and contributions to open source projects I personally use.
 
-Also make sure to check out my personal blog at https://alex.kirk.at/ where I write about my projects and occasionally comment on happenings on the Internet. My WordPress is also [my own Mastodon instance](https://alex.kirk.at/2024/06/13/your-wordpress-as-your-personal-mastodon-instance/), so you can follow me at [@alex@kirk.at](https://alex.kirk.at/@alex]
+Also make sure to check out my personal blog at https://alex.kirk.at/ where I write about my projects and occasionally comment on happenings on the Internet. My WordPress is also [my own Mastodon instance](https://alex.kirk.at/2024/06/13/your-wordpress-as-your-personal-mastodon-instance/), so you can follow me at [@alex@kirk.at](https://alex.kirk.at/@alex)
